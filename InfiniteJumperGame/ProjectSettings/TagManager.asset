@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG
+    uniqueID: 2284685693
+    locked: 0
+  - name: Plaform
+    uniqueID: 2117524779
+    locked: 0
+  - name: Player
+    uniqueID: 2336796193
+    locked: 0
+  - name: Canvas
+    uniqueID: 2204156441
+    locked: 0
