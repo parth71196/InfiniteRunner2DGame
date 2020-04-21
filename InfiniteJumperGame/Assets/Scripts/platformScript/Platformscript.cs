@@ -7,6 +7,7 @@ public class Platformscript : MonoBehaviour
     private bool right;
     private static float speed = 1f; 
     private static float margin = 1.9f;
+   
     void Awake()
     {
         randomizeMovement();
