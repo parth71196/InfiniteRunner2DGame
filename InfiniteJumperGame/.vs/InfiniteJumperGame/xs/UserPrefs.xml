@@ -1,13 +1,14 @@
 ﻿<Properties StartupConfiguration="{2FF41F53-222A-2284-2B23-7CC4D54BC28C}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/platformScript/Platformscript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/cameraScript/CameraScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerScripts/PlayerScript.cs" Line="32" Column="1" />
+      <File FileName="Assets/Scripts/PlayerScripts/PlayerScript.cs" Line="35" Column="1" />
       <File FileName="Assets/Scripts/platformScript/Platformscript.cs" Line="10" Column="4" />
+      <File FileName="Assets/Scripts/cameraScript/CameraScript.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c8a70200-bc66-4036-bbce-067e01216ab6" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a965fcee-96fc-41a2-9868-dc2b135c122d" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
